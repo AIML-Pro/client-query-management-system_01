@@ -1,0 +1,201 @@
+query_id,mail_id,mobile_number,query_heading,query_description,category,status,query_created_time,query_closed_time
+1,john95@mail.com,9196001338,How to use feature,Can you explain how to use the export feature?,General,Closed,2026-09-21 19:51:32,2026-09-22 10:34:32
+2,raj36@gmail.com,9265423511,Product not working,The device I purchased stopped working after two days.,Product,Closed,2026-11-09 11:11:32,2026-11-11 21:48:32
+3,lucy94@company.com,9816184959,Delayed delivery,My order was supposed to arrive last week but is still in transit.,Shipping,Open,2026-10-01 07:53:32,
+4,sara30@gmail.com,9647525534,Login not working,I am unable to log in to my account even with the correct password.,Technical,Closed,2026-11-09 20:26:32,2026-11-10 08:20:32
+5,lena82@mail.com,9350305641,How to use feature,Can you explain how to use the export feature?,General,Closed,2026-10-25 11:52:32,2026-10-27 13:09:32
+6,raj83@company.com,9242388496,Page not loading,The reports page shows a blank screen and never loads.,Technical,Open,2026-11-09 04:02:32,
+7,lucy15@yahoo.com,9269166978,Feature request,It would be great if the product supported dark mode.,Product,Closed,2026-09-14 17:09:32,2026-09-18 18:12:32
+8,priya15@outlook.com,9627048281,Cannot reset password,The password reset email never arrives in my inbox.,Account,Closed,2026-11-13 06:25:32,2026-11-16 17:46:32
+9,raj68@gmail.com,9957015430,Partnership inquiry,I am interested in a business partnership opportunity.,General,Closed,2026-09-06 00:25:32,2026-09-10 05:24:32
+10,amit85@company.com,9824896383,Login not working,I am unable to log in to my account even with the correct password.,Technical,Closed,2026-10-18 15:25:32,2026-10-19 08:33:32
+11,sam16@yahoo.com,9315098393,Partnership inquiry,I am interested in a business partnership opportunity.,General,Closed,2026-11-11 09:00:32,2026-11-14 04:28:32
+12,sara66@yahoo.com,9473829973,Incorrect invoice amount,I was charged more than the agreed amount on my latest invoice.,Billing,Closed,2026-09-15 15:34:32,2026-09-17 10:38:32
+13,raj60@gmail.com,9106513338,Tracking not updating,The tracking number has not updated for several days.,Shipping,Closed,2026-08-29 16:19:32,2026-08-31 23:45:32
+14,tara57@mail.com,9108013267,Wrong item delivered,I received a different product than the one I ordered.,Shipping,Closed,2026-09-09 21:06:32,2026-09-14 20:10:32
+15,sam59@outlook.com,9687234309,Wrong item delivered,I received a different product than the one I ordered.,Shipping,Closed,2026-08-24 18:01:32,2026-08-26 20:17:32
+16,omar68@yahoo.com,9081219136,How to use feature,Can you explain how to use the export feature?,General,Closed,2026-08-24 14:14:32,2026-08-29 13:08:32
+17,sara73@mail.com,9543534624,Refund not received,I requested a refund two weeks ago but have not received it yet.,Billing,Open,2026-11-04 15:03:32,
+18,amit13@gmail.com,9838425135,Package damaged,The package arrived damaged and the item is broken.,Shipping,Open,2026-08-19 03:16:32,
+19,leo68@gmail.com,9841241182,Update email address,I need to change the email address linked to my account.,Account,Closed,2026-10-26 10:56:32,2026-10-30 19:37:32
+20,raj63@outlook.com,9016400524,Account locked,My account is locked after a few failed login attempts.,Account,Closed,2026-09-29 19:20:32,2026-10-01 05:52:32
+21,tara20@mail.com,9059826204,Error during checkout,I get an error message when I try to complete my purchase.,Technical,Closed,2026-10-27 12:44:32,2026-11-01 07:28:32
+22,lucy46@mail.com,9692322602,Cannot reset password,The password reset email never arrives in my inbox.,Account,Open,2026-09-13 09:52:32,
+23,tara90@gmail.com,9607337543,Partnership inquiry,I am interested in a business partnership opportunity.,General,Closed,2026-11-11 12:28:32,2026-11-12 10:18:32
+24,raj99@outlook.com,9586850142,Login not working,I am unable to log in to my account even with the correct password.,Technical,Open,2026-10-07 22:54:32,
+25,sara56@mail.com,9816934060,Warranty question,I would like to know if my product is still under warranty.,Product,Closed,2026-08-31 08:04:32,2026-09-04 13:24:32
+26,lucy80@outlook.com,9148465648,Missing parts,The box was missing some parts listed in the manual.,Product,Open,2026-10-11 15:19:32,
+27,tara23@mail.com,9946804436,App keeps crashing,The mobile app crashes every time I open the dashboard.,Technical,Open,2026-11-11 01:20:32,
+28,leo95@yahoo.com,9148951343,Warranty question,I would like to know if my product is still under warranty.,Product,Closed,2026-10-13 03:20:32,2026-10-15 17:10:32
+29,john59@company.com,9936763201,App keeps crashing,The mobile app crashes every time I open the dashboard.,Technical,Closed,2026-08-22 20:07:32,2026-08-26 23:11:32
+30,lena16@company.com,9278895798,Wrong item delivered,I received a different product than the one I ordered.,Shipping,Closed,2026-11-15 05:06:32,2026-11-16 14:04:32
+31,lena82@outlook.com,9873471434,Tracking not updating,The tracking number has not updated for several days.,Shipping,Open,2026-10-17 02:53:32,
+32,amit28@gmail.com,9665876036,Account locked,My account is locked after a few failed login attempts.,Account,Closed,2026-09-03 16:51:32,2026-09-04 13:36:32
+33,sam54@mail.com,9893734670,Delayed delivery,My order was supposed to arrive last week but is still in transit.,Shipping,Closed,2026-10-17 12:59:32,2026-10-19 15:53:32
+34,sam4@company.com,9990162720,Package damaged,The package arrived damaged and the item is broken.,Shipping,Closed,2026-09-08 03:35:32,2026-09-11 12:09:32
+35,omar36@company.com,9417080531,Delete my account,Please help me permanently delete my account and data.,Account,Closed,2026-09-14 02:57:32,2026-09-18 20:21:32
+36,john17@company.com,9193745299,How to use feature,Can you explain how to use the export feature?,General,Closed,2026-09-17 19:30:32,2026-09-18 15:45:32
+37,lena87@company.com,9631931491,How to use feature,Can you explain how to use the export feature?,General,Closed,2026-09-25 16:14:32,2026-09-27 08:50:32
+38,lucy44@gmail.com,9671657262,Product not working,The device I purchased stopped working after two days.,Product,Closed,2026-10-25 02:19:32,2026-10-27 20:00:32
+39,mia35@outlook.com,9314737996,Partnership inquiry,I am interested in a business partnership opportunity.,General,Open,2026-10-16 02:29:32,
+40,mia44@outlook.com,9948083136,Cannot reset password,The password reset email never arrives in my inbox.,Account,Closed,2026-09-27 18:08:32,2026-10-02 01:24:32
+41,mia38@yahoo.com,9634957885,Wrong item delivered,I received a different product than the one I ordered.,Shipping,Closed,2026-11-08 11:08:32,2026-11-08 14:13:32
+42,lucy93@yahoo.com,9518233749,Package damaged,The package arrived damaged and the item is broken.,Shipping,Closed,2026-11-15 02:54:32,2026-11-16 09:01:32
+43,priya91@mail.com,9240084271,Warranty question,I would like to know if my product is still under warranty.,Product,Closed,2026-09-10 21:51:32,2026-09-12 12:51:32
+44,mia62@gmail.com,9167190229,Double payment,My card was charged twice for the same order.,Billing,Closed,2026-10-18 02:58:32,2026-10-18 10:14:32
+45,maria80@yahoo.com,9867749649,Cannot reset password,The password reset email never arrives in my inbox.,Account,Closed,2026-09-02 06:25:32,2026-09-05 12:15:32
+46,priya31@yahoo.com,9812067974,Product not working,The device I purchased stopped working after two days.,Product,Closed,2026-09-13 08:50:32,2026-09-13 20:00:32
+47,nina34@mail.com,9361832421,Refund not received,I requested a refund two weeks ago but have not received it yet.,Billing,Closed,2026-09-23 11:32:32,2026-09-27 03:46:32
+48,nina16@company.com,9464887719,Refund not received,I requested a refund two weeks ago but have not received it yet.,Billing,Closed,2026-11-02 12:29:32,2026-11-04 01:57:32
+49,omar74@mail.com,9049027874,Subscription renewal issue,My subscription renewed even though I had cancelled it.,Billing,Closed,2026-11-02 20:38:32,2026-11-06 12:31:32
+50,mia14@yahoo.com,9567468071,Error during checkout,I get an error message when I try to complete my purchase.,Technical,Closed,2026-08-29 03:59:32,2026-08-30 22:41:32
+51,omar70@company.com,9603859770,Account locked,My account is locked after a few failed login attempts.,Account,Closed,2026-09-01 01:32:32,2026-09-01 03:14:32
+52,david16@gmail.com,9932480861,Page not loading,The reports page shows a blank screen and never loads.,Technical,Open,2026-09-23 03:33:32,
+53,leo38@mail.com,9467737826,Login not working,I am unable to log in to my account even with the correct password.,Technical,Closed,2026-09-02 09:30:32,2026-09-07 10:15:32
+54,amit65@outlook.com,9044997278,App keeps crashing,The mobile app crashes every time I open the dashboard.,Technical,Open,2026-09-22 01:58:32,
+55,omar25@yahoo.com,9963605766,Package damaged,The package arrived damaged and the item is broken.,Shipping,Closed,2026-10-27 06:01:32,2026-10-29 00:56:32
+56,mia43@gmail.com,9718702621,Business hours,What are your customer support working hours?,General,Open,2026-08-21 17:09:32,
+57,omar87@mail.com,9657809134,Package damaged,The package arrived damaged and the item is broken.,Shipping,Closed,2026-11-05 11:02:32,2026-11-10 01:23:32
+58,tara57@yahoo.com,9400504556,Login not working,I am unable to log in to my account even with the correct password.,Technical,Open,2026-08-30 09:22:32,
+59,tara79@company.com,9937923747,App keeps crashing,The mobile app crashes every time I open the dashboard.,Technical,Closed,2026-10-29 10:27:32,2026-10-30 09:32:32
+60,leo76@outlook.com,9647436713,Cannot reset password,The password reset email never arrives in my inbox.,Account,Closed,2026-09-23 10:11:32,2026-09-25 19:33:32
+61,nina85@company.com,9409097439,Package damaged,The package arrived damaged and the item is broken.,Shipping,Open,2026-11-14 21:38:32,
+62,raj99@yahoo.com,9104709521,Update email address,I need to change the email address linked to my account.,Account,Open,2026-11-04 21:20:32,
+63,tara47@mail.com,9842474517,Account locked,My account is locked after a few failed login attempts.,Account,Open,2026-09-08 18:45:32,
+64,maria72@outlook.com,9160481754,Refund not received,I requested a refund two weeks ago but have not received it yet.,Billing,Open,2026-11-12 12:20:32,
+65,lucy72@outlook.com,9931746120,Feature request,It would be great if the product supported dark mode.,Product,Closed,2026-08-31 09:51:32,2026-09-03 18:47:32
+66,mia18@company.com,9758692617,Double payment,My card was charged twice for the same order.,Billing,Open,2026-08-31 15:52:32,
+67,ken47@gmail.com,9585064317,Feature request,It would be great if the product supported dark mode.,Product,Closed,2026-08-22 11:00:32,2026-08-24 20:15:32
+68,john73@yahoo.com,9183933529,Refund not received,I requested a refund two weeks ago but have not received it yet.,Billing,Open,2026-08-23 22:52:32,
+69,david15@gmail.com,9205395024,Double payment,My card was charged twice for the same order.,Billing,Open,2026-09-03 05:53:32,
+70,tara47@mail.com,9917839084,Refund not received,I requested a refund two weeks ago but have not received it yet.,Billing,Closed,2026-10-23 16:24:32,2026-10-26 03:13:32
+71,sara63@company.com,9115921249,Delayed delivery,My order was supposed to arrive last week but is still in transit.,Shipping,Open,2026-10-18 01:04:32,
+72,sam13@gmail.com,9836736576,Partnership inquiry,I am interested in a business partnership opportunity.,General,Closed,2026-11-02 04:55:32,2026-11-05 11:22:32
+73,omar61@gmail.com,9111615280,Delayed delivery,My order was supposed to arrive last week but is still in transit.,Shipping,Closed,2026-10-10 23:19:32,2026-10-11 20:02:32
+74,priya97@company.com,9049451983,Warranty question,I would like to know if my product is still under warranty.,Product,Open,2026-10-09 00:32:32,
+75,maria36@mail.com,9368998094,Error during checkout,I get an error message when I try to complete my purchase.,Technical,Closed,2026-08-31 00:31:32,2026-08-31 16:19:32
+76,ken19@mail.com,9612018366,Refund not received,I requested a refund two weeks ago but have not received it yet.,Billing,Closed,2026-11-14 22:35:32,2026-11-14 23:46:32
+77,lena11@gmail.com,9229014767,Package damaged,The package arrived damaged and the item is broken.,Shipping,Closed,2026-10-03 22:23:32,2026-10-07 00:01:32
+78,tara15@outlook.com,9978403690,Feature request,It would be great if the product supported dark mode.,Product,Closed,2026-09-20 19:25:32,2026-09-22 16:52:32
+79,nina1@company.com,9622683885,Refund not received,I requested a refund two weeks ago but have not received it yet.,Billing,Closed,2026-09-13 17:25:32,2026-09-15 11:32:32
+80,sara41@mail.com,9696641605,Subscription renewal issue,My subscription renewed even though I had cancelled it.,Billing,Open,2026-10-11 13:06:32,
+81,lucy52@mail.com,9164535218,Error during checkout,I get an error message when I try to complete my purchase.,Technical,Closed,2026-08-29 02:31:32,2026-08-31 11:08:32
+82,raj83@yahoo.com,9312432921,How to use feature,Can you explain how to use the export feature?,General,Open,2026-10-01 00:23:32,
+83,leo73@mail.com,9552717744,Error during checkout,I get an error message when I try to complete my purchase.,Technical,Open,2026-10-29 07:05:32,
+84,lucy48@outlook.com,9119986798,Product not working,The device I purchased stopped working after two days.,Product,Closed,2026-10-20 14:56:32,2026-10-20 19:59:32
+85,leo20@gmail.com,9715182037,How to use feature,Can you explain how to use the export feature?,General,Closed,2026-10-30 08:49:32,2026-11-01 22:21:32
+86,lucy77@gmail.com,9515186449,Wrong item delivered,I received a different product than the one I ordered.,Shipping,Closed,2026-10-03 22:01:32,2026-10-05 18:44:32
+87,amit40@company.com,9291486528,Page not loading,The reports page shows a blank screen and never loads.,Technical,Open,2026-10-31 09:46:32,
+88,lucy99@company.com,9332214188,Subscription renewal issue,My subscription renewed even though I had cancelled it.,Billing,Closed,2026-08-19 23:56:32,2026-08-21 04:17:32
+89,omar89@mail.com,9270653794,How to use feature,Can you explain how to use the export feature?,General,Closed,2026-11-04 17:15:32,2026-11-05 14:26:32
+90,maria61@yahoo.com,9597746886,General feedback,I wanted to share some feedback about your service.,General,Open,2026-10-24 19:56:32,
+91,david14@mail.com,9141247826,App keeps crashing,The mobile app crashes every time I open the dashboard.,Technical,Closed,2026-09-18 14:18:32,2026-09-20 14:53:32
+92,leo31@company.com,9153051522,Refund not received,I requested a refund two weeks ago but have not received it yet.,Billing,Closed,2026-09-30 13:03:32,2026-10-03 06:26:32
+93,mia58@mail.com,9010432898,Double payment,My card was charged twice for the same order.,Billing,Open,2026-11-14 17:25:32,
+94,nina80@company.com,9117980893,Delayed delivery,My order was supposed to arrive last week but is still in transit.,Shipping,Closed,2026-09-16 21:44:32,2026-09-19 04:24:32
+95,nina24@gmail.com,9851888880,Business hours,What are your customer support working hours?,General,Closed,2026-10-10 13:16:32,2026-10-13 15:42:32
+96,sara9@outlook.com,9319520585,Tracking not updating,The tracking number has not updated for several days.,Shipping,Closed,2026-11-07 01:00:32,2026-11-07 04:22:32
+97,leo92@company.com,9043030548,Business hours,What are your customer support working hours?,General,Closed,2026-11-15 04:17:32,2026-11-15 22:21:32
+98,ken7@outlook.com,9415667652,Tracking not updating,The tracking number has not updated for several days.,Shipping,Closed,2026-08-22 08:49:32,2026-08-27 00:38:32
+99,lucy56@mail.com,9284511544,Tracking not updating,The tracking number has not updated for several days.,Shipping,Closed,2026-10-22 21:28:32,2026-10-25 04:33:32
+100,lena46@mail.com,9640165820,Tracking not updating,The tracking number has not updated for several days.,Shipping,Closed,2026-11-14 02:59:32,2026-11-18 01:54:32
+101,sara47@outlook.com,9690927557,Error during checkout,I get an error message when I try to complete my purchase.,Technical,Open,2026-09-02 14:52:32,
+102,lucy95@yahoo.com,9786814473,Refund not received,I requested a refund two weeks ago but have not received it yet.,Billing,Closed,2026-10-06 23:18:32,2026-10-07 14:19:32
+103,mia58@yahoo.com,9715518844,Warranty question,I would like to know if my product is still under warranty.,Product,Open,2026-09-11 15:45:32,
+104,lucy18@yahoo.com,9705895782,App keeps crashing,The mobile app crashes every time I open the dashboard.,Technical,Open,2026-10-21 19:44:32,
+105,amit68@company.com,9691251778,Product not working,The device I purchased stopped working after two days.,Product,Open,2026-09-26 01:22:32,
+106,lena8@gmail.com,9824225358,Update email address,I need to change the email address linked to my account.,Account,Open,2026-09-03 02:09:32,
+107,ken79@mail.com,9182992299,Cannot reset password,The password reset email never arrives in my inbox.,Account,Closed,2026-09-12 09:12:32,2026-09-15 18:31:32
+108,john34@yahoo.com,9969078447,Cannot reset password,The password reset email never arrives in my inbox.,Account,Open,2026-08-27 14:18:32,
+109,nina62@company.com,9359255562,Error during checkout,I get an error message when I try to complete my purchase.,Technical,Closed,2026-10-14 15:21:32,2026-10-17 00:47:32
+110,omar13@gmail.com,9469632595,Cannot reset password,The password reset email never arrives in my inbox.,Account,Closed,2026-09-17 02:44:32,2026-09-18 10:53:32
+111,mia64@gmail.com,9168733950,App keeps crashing,The mobile app crashes every time I open the dashboard.,Technical,Open,2026-10-22 03:08:32,
+112,mia14@company.com,9245650609,Double payment,My card was charged twice for the same order.,Billing,Closed,2026-11-02 09:20:32,2026-11-05 06:20:32
+113,lucy71@outlook.com,9991216558,Missing parts,The box was missing some parts listed in the manual.,Product,Closed,2026-10-26 21:41:32,2026-10-29 08:29:32
+114,raj18@outlook.com,9787298259,Update email address,I need to change the email address linked to my account.,Account,Closed,2026-11-03 05:02:32,2026-11-03 11:04:32
+115,sam66@mail.com,9794705516,Update email address,I need to change the email address linked to my account.,Account,Closed,2026-11-04 12:30:32,2026-11-06 09:02:32
+116,john75@mail.com,9309728962,Warranty question,I would like to know if my product is still under warranty.,Product,Open,2026-11-02 03:53:32,
+117,sara54@yahoo.com,9636897028,Business hours,What are your customer support working hours?,General,Closed,2026-10-30 10:44:32,2026-11-01 20:04:32
+118,mia59@mail.com,9585497334,Page not loading,The reports page shows a blank screen and never loads.,Technical,Open,2026-10-24 00:57:32,
+119,maria41@company.com,9584419866,Warranty question,I would like to know if my product is still under warranty.,Product,Closed,2026-09-24 22:22:32,2026-09-28 17:53:32
+120,nina84@outlook.com,9733848421,Update email address,I need to change the email address linked to my account.,Account,Closed,2026-08-22 22:22:32,2026-08-27 21:50:32
+121,maria7@gmail.com,9657120826,Missing parts,The box was missing some parts listed in the manual.,Product,Closed,2026-08-24 10:34:32,2026-08-27 20:48:32
+122,mia42@outlook.com,9019380262,General feedback,I wanted to share some feedback about your service.,General,Open,2026-11-08 19:25:32,
+123,mia5@gmail.com,9499154788,Subscription renewal issue,My subscription renewed even though I had cancelled it.,Billing,Open,2026-09-10 12:32:32,
+124,leo59@outlook.com,9205493296,Wrong item delivered,I received a different product than the one I ordered.,Shipping,Closed,2026-09-20 19:28:32,2026-09-21 17:14:32
+125,amit42@yahoo.com,9046374549,Package damaged,The package arrived damaged and the item is broken.,Shipping,Closed,2026-10-08 09:43:32,2026-10-09 04:13:32
+126,ken60@outlook.com,9268414593,How to use feature,Can you explain how to use the export feature?,General,Closed,2026-11-09 00:21:32,2026-11-12 14:28:32
+127,mia48@company.com,9878339187,App keeps crashing,The mobile app crashes every time I open the dashboard.,Technical,Open,2026-09-06 03:24:32,
+128,amit65@yahoo.com,9982258713,Warranty question,I would like to know if my product is still under warranty.,Product,Open,2026-10-28 15:40:32,
+129,amit54@company.com,9908740640,General feedback,I wanted to share some feedback about your service.,General,Closed,2026-10-22 03:28:32,2026-10-22 21:00:32
+130,amit70@gmail.com,9170462265,Business hours,What are your customer support working hours?,General,Open,2026-08-23 01:59:32,
+131,sam70@yahoo.com,9512868230,Tracking not updating,The tracking number has not updated for several days.,Shipping,Open,2026-10-04 15:20:32,
+132,leo30@yahoo.com,9752431069,Double payment,My card was charged twice for the same order.,Billing,Closed,2026-11-12 12:11:32,2026-11-14 14:03:32
+133,raj91@gmail.com,9306738302,Refund not received,I requested a refund two weeks ago but have not received it yet.,Billing,Closed,2026-08-25 16:15:32,2026-08-28 21:58:32
+134,maria42@yahoo.com,9428364408,Warranty question,I would like to know if my product is still under warranty.,Product,Closed,2026-10-29 23:13:32,2026-11-02 15:05:32
+135,tara83@company.com,9856624628,Missing parts,The box was missing some parts listed in the manual.,Product,Open,2026-10-28 03:40:32,
+136,maria8@mail.com,9668826343,Wrong item delivered,I received a different product than the one I ordered.,Shipping,Open,2026-09-25 10:46:32,
+137,leo25@gmail.com,9469901398,Cannot reset password,The password reset email never arrives in my inbox.,Account,Open,2026-10-03 15:11:32,
+138,raj95@gmail.com,9739363854,Error during checkout,I get an error message when I try to complete my purchase.,Technical,Closed,2026-09-28 22:35:32,2026-10-03 22:47:32
+139,lucy13@company.com,9535560932,Tracking not updating,The tracking number has not updated for several days.,Shipping,Closed,2026-09-25 21:00:32,2026-09-28 13:29:32
+140,tara32@company.com,9854777252,Double payment,My card was charged twice for the same order.,Billing,Closed,2026-09-23 16:49:32,2026-09-25 18:25:32
+141,lena10@gmail.com,9062312038,Error during checkout,I get an error message when I try to complete my purchase.,Technical,Closed,2026-10-26 08:40:32,2026-10-30 21:34:32
+142,sara62@company.com,9008860084,Package damaged,The package arrived damaged and the item is broken.,Shipping,Open,2026-11-05 09:19:32,
+143,john14@gmail.com,9823398454,Warranty question,I would like to know if my product is still under warranty.,Product,Closed,2026-10-21 11:20:32,2026-10-26 08:31:32
+144,lucy39@gmail.com,9016668700,Delayed delivery,My order was supposed to arrive last week but is still in transit.,Shipping,Closed,2026-10-08 03:13:32,2026-10-11 21:27:32
+145,amit73@gmail.com,9803397401,Business hours,What are your customer support working hours?,General,Open,2026-10-20 02:18:32,
+146,sara76@yahoo.com,9614293968,Partnership inquiry,I am interested in a business partnership opportunity.,General,Open,2026-09-08 22:38:32,
+147,david13@company.com,9315999650,Delete my account,Please help me permanently delete my account and data.,Account,Closed,2026-11-14 11:42:32,2026-11-16 08:45:32
+148,leo24@mail.com,9619431142,Partnership inquiry,I am interested in a business partnership opportunity.,General,Closed,2026-10-18 19:59:32,2026-10-20 21:26:32
+149,sam47@outlook.com,9121267888,Wrong item delivered,I received a different product than the one I ordered.,Shipping,Closed,2026-09-26 23:43:32,2026-09-28 16:11:32
+150,john42@company.com,9046618398,Delayed delivery,My order was supposed to arrive last week but is still in transit.,Shipping,Closed,2026-08-29 00:12:32,2026-09-01 06:02:32
+151,lena22@company.com,9464715437,Error during checkout,I get an error message when I try to complete my purchase.,Technical,Closed,2026-09-03 20:56:32,2026-09-04 16:00:32
+152,leo80@company.com,9575692459,Missing parts,The box was missing some parts listed in the manual.,Product,Closed,2026-08-30 16:56:32,2026-09-01 20:17:32
+153,mia38@company.com,9935646519,Business hours,What are your customer support working hours?,General,Open,2026-09-26 18:02:32,
+154,john89@gmail.com,9672434266,App keeps crashing,The mobile app crashes every time I open the dashboard.,Technical,Closed,2026-10-16 10:50:32,2026-10-18 01:43:32
+155,mia89@company.com,9805891135,Subscription renewal issue,My subscription renewed even though I had cancelled it.,Billing,Closed,2026-10-31 01:11:32,2026-11-05 00:06:32
+156,sam66@mail.com,9899375679,Login not working,I am unable to log in to my account even with the correct password.,Technical,Closed,2026-09-29 01:43:32,2026-09-30 11:57:32
+157,lucy15@yahoo.com,9545738757,Business hours,What are your customer support working hours?,General,Closed,2026-08-21 03:43:32,2026-08-26 01:48:32
+158,leo3@outlook.com,9123828258,Subscription renewal issue,My subscription renewed even though I had cancelled it.,Billing,Closed,2026-09-26 14:56:32,2026-09-30 10:03:32
+159,maria51@gmail.com,9937966033,Tracking not updating,The tracking number has not updated for several days.,Shipping,Closed,2026-10-08 08:48:32,2026-10-11 22:15:32
+160,priya34@company.com,9859696915,Cannot reset password,The password reset email never arrives in my inbox.,Account,Closed,2026-10-24 18:00:32,2026-10-27 05:07:32
+161,lena11@yahoo.com,9513412528,Delete my account,Please help me permanently delete my account and data.,Account,Closed,2026-11-12 11:28:32,2026-11-15 19:05:32
+162,david89@yahoo.com,9827422579,Tracking not updating,The tracking number has not updated for several days.,Shipping,Closed,2026-10-30 01:04:32,2026-11-02 11:38:32
+163,john72@mail.com,9767677219,Double payment,My card was charged twice for the same order.,Billing,Open,2026-10-18 16:49:32,
+164,nina59@mail.com,9788191485,Refund not received,I requested a refund two weeks ago but have not received it yet.,Billing,Closed,2026-08-21 20:51:32,2026-08-22 19:40:32
+165,leo97@yahoo.com,9407451713,Product not working,The device I purchased stopped working after two days.,Product,Closed,2026-10-25 19:04:32,2026-10-30 06:45:32
+166,tara27@gmail.com,9958498254,Page not loading,The reports page shows a blank screen and never loads.,Technical,Open,2026-09-08 07:45:32,
+167,priya84@yahoo.com,9232536729,Account locked,My account is locked after a few failed login attempts.,Account,Closed,2026-09-04 02:35:32,2026-09-05 15:30:32
+168,tara12@company.com,9845775901,Partnership inquiry,I am interested in a business partnership opportunity.,General,Closed,2026-10-05 02:41:32,2026-10-09 20:30:32
+169,lucy28@company.com,9454589297,General feedback,I wanted to share some feedback about your service.,General,Closed,2026-08-26 06:02:32,2026-08-28 13:54:32
+170,sara3@gmail.com,9277063242,Cannot reset password,The password reset email never arrives in my inbox.,Account,Open,2026-08-30 09:27:32,
+171,lucy84@yahoo.com,9064361103,Cannot reset password,The password reset email never arrives in my inbox.,Account,Open,2026-09-18 15:00:32,
+172,david2@gmail.com,9516271361,Delayed delivery,My order was supposed to arrive last week but is still in transit.,Shipping,Open,2026-10-31 20:10:32,
+173,priya97@yahoo.com,9218909275,How to use feature,Can you explain how to use the export feature?,General,Closed,2026-09-27 00:33:32,2026-09-29 02:22:32
+174,david13@yahoo.com,9196565234,Business hours,What are your customer support working hours?,General,Closed,2026-10-09 08:20:32,2026-10-10 12:25:32
+175,maria37@gmail.com,9438983640,How to use feature,Can you explain how to use the export feature?,General,Open,2026-10-27 08:15:32,
+176,sam2@outlook.com,9526965827,Error during checkout,I get an error message when I try to complete my purchase.,Technical,Closed,2026-08-31 20:08:32,2026-09-01 06:41:32
+177,amit51@mail.com,9486661889,Incorrect invoice amount,I was charged more than the agreed amount on my latest invoice.,Billing,Closed,2026-08-18 20:50:32,2026-08-19 05:40:32
+178,amit20@mail.com,9569146303,Page not loading,The reports page shows a blank screen and never loads.,Technical,Open,2026-09-25 15:09:32,
+179,priya85@yahoo.com,9102027588,Subscription renewal issue,My subscription renewed even though I had cancelled it.,Billing,Closed,2026-10-15 08:15:32,2026-10-18 23:02:32
+180,lena35@gmail.com,9056481491,Partnership inquiry,I am interested in a business partnership opportunity.,General,Open,2026-10-03 17:24:32,
+181,lucy33@gmail.com,9913800030,Tracking not updating,The tracking number has not updated for several days.,Shipping,Closed,2026-08-25 04:31:32,2026-08-27 04:41:32
+182,sam5@mail.com,9635365419,Package damaged,The package arrived damaged and the item is broken.,Shipping,Open,2026-09-05 18:36:32,
+183,sara9@company.com,9445187053,Cannot reset password,The password reset email never arrives in my inbox.,Account,Closed,2026-09-08 20:28:32,2026-09-09 02:53:32
+184,maria99@yahoo.com,9832060385,Account locked,My account is locked after a few failed login attempts.,Account,Open,2026-10-16 00:14:32,
+185,omar94@outlook.com,9138367024,How to use feature,Can you explain how to use the export feature?,General,Open,2026-08-18 10:01:32,
+186,maria59@gmail.com,9918261990,Incorrect invoice amount,I was charged more than the agreed amount on my latest invoice.,Billing,Open,2026-10-23 02:21:32,
+187,maria90@outlook.com,9574313291,Wrong item delivered,I received a different product than the one I ordered.,Shipping,Closed,2026-09-23 21:31:32,2026-09-28 04:56:32
+188,lena99@yahoo.com,9747411249,Login not working,I am unable to log in to my account even with the correct password.,Technical,Closed,2026-10-14 02:57:32,2026-10-17 00:19:32
+189,omar66@gmail.com,9442067883,Refund not received,I requested a refund two weeks ago but have not received it yet.,Billing,Closed,2026-09-04 15:22:32,2026-09-06 13:47:32
+190,priya17@yahoo.com,9651994101,Subscription renewal issue,My subscription renewed even though I had cancelled it.,Billing,Closed,2026-09-03 15:37:32,2026-09-07 19:51:32
+191,david22@mail.com,9667066253,Error during checkout,I get an error message when I try to complete my purchase.,Technical,Closed,2026-08-28 22:44:32,2026-08-31 10:47:32
+192,ken83@outlook.com,9768701462,Page not loading,The reports page shows a blank screen and never loads.,Technical,Closed,2026-10-13 16:39:32,2026-10-16 23:54:32
+193,maria92@outlook.com,9787598564,Wrong item delivered,I received a different product than the one I ordered.,Shipping,Closed,2026-11-06 06:27:32,2026-11-08 08:17:32
+194,omar36@gmail.com,9785932133,Login not working,I am unable to log in to my account even with the correct password.,Technical,Open,2026-11-01 19:38:32,
+195,maria23@yahoo.com,9395590599,Cannot reset password,The password reset email never arrives in my inbox.,Account,Open,2026-10-30 00:59:32,
+196,mia30@mail.com,9308705932,App keeps crashing,The mobile app crashes every time I open the dashboard.,Technical,Closed,2026-10-25 21:48:32,2026-10-26 09:51:32
+197,omar15@mail.com,9515691545,Update email address,I need to change the email address linked to my account.,Account,Closed,2026-08-24 12:46:32,2026-08-29 10:55:32
+198,tara89@mail.com,9539264422,App keeps crashing,The mobile app crashes every time I open the dashboard.,Technical,Closed,2026-11-07 04:18:32,2026-11-10 23:53:32
+199,sam79@yahoo.com,9917251355,How to use feature,Can you explain how to use the export feature?,General,Closed,2026-10-28 13:48:32,2026-11-02 12:39:32
+200,omar45@outlook.com,9100676267,Login not working,I am unable to log in to my account even with the correct password.,Technical,Closed,2026-10-13 12:53:32,2026-10-17 05:57:32
